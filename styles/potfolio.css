@@ -127,4 +127,19 @@ main{
     text-align: center;
     
 }
-.
+#what-i-do-description{
+    padding: 30px 156px;
+
+}
+.what-i-do{
+    margin: 130px 230px;
+    
+    background-color: ;
+    border-radius: ;
+    max-width: 909px;
+    max-height: 90px;
+    text-align: center;
+}
+.skill-container{
+   justify-items: right; 
+}
